@@ -77,5 +77,5 @@ module.exports.register = async (server, logger) => {
   })
 
   // setup data
-  mockData.hydrate()
+  // mockData.hydrate()
 }
